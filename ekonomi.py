@@ -76,7 +76,7 @@ def fetch_product_details(product_name):
         return cached_data
     
     url = f'https://google-search-master-mega.p.rapidapi.com/shopping?q={product_name}&gl=us&hl=en&autocorrect=true&num=50&page=1'
-    headers = {'x-rapidapi-host': 'google-search-master-mega.p.rapidapi.com', 'x-rapidapi-key': '702c9a04c2msh51c070c034c6e99p18f0b5jsnf74a3c74907a'}
+    headers = {'x-rapidapi-host': 'google-search-master-mega.p.rapidapi.com', 'x-rapidapi-key': 'a645acb05emsh907eb026e3240d3p13fedejsn0a0f36fb077c'}
     response = requests.get(url, headers=headers)
     
     if response.status_code != 200:
