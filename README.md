@@ -1,5 +1,7 @@
 # AI Chatbot and Product Information API
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 ## Overview
 
 This project is a Python-based backend service that combines an AI-powered chatbot with a product information retrieval system. It exposes REST APIs using FastAPI to handle conversational AI with memory and to fetch product details such as prices and offers from external sources. The system also includes caching and persistent storage to improve performance and maintain conversation history.
