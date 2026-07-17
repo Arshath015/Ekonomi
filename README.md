@@ -126,3 +126,10 @@ http://0.0.0.0:8000
 ## Summary
 
 This project demonstrates a practical backend system that integrates conversational AI with real-world product data retrieval. It highlights API design, caching, persistence, and external service integration in a clean and extensible architecture.
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
