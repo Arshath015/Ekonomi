@@ -133,3 +133,7 @@ This project demonstrates a practical backend system that integrates conversatio
 ```
 pip install -r requirements.txt
 ```
+
+
+---
+**Last updated:** 2026-07-22
